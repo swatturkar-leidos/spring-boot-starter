@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'io.lettuce:lettuce-core:6.1.4.RELEASE
+	implementation 'io.lettuce:lettuce-core:6.1.4.RELEASE'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
